@@ -14,12 +14,16 @@ Domain knowledge in IVR applications and networking applications.
 * Limited exposure to Haskell & functional programming.
 
 ## Expericence
-* Spirent
-* Infinera
-* Actiance
-* Unified Messaging Systems
-* Fraunhofer
-* Nokia Siemens Networks
+* Spirent | Current | Bangalore, India
+  * Next-gen network testing product developement using micro services architecture.
+  * Opensource contribution - Luddite (micro-framework for RESTful services).
+  * Spirent TestCenter developement.
+  * Technologies: C++, REST, PostgreSQL, Golang, Python, Docker, Spirent network testing hardware.
+* Infinera | 1 year | Bangalore, India
+* Actiance | 8 months | Bangalore, India
+* Unified Messaging Systems | 4 years | Bangalore, India
+* Fraunhofer | 6 months | Munich, Germany
+* Nokia Siemens Networks | 3 months | Helsinki, Finland
 
 ## Education
 * Royal Institute of Technology
