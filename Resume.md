@@ -9,7 +9,7 @@ Domain knowledge in IVR applications and networking applications.
 * Solid understanding of object oriented analysis, design and programming.
 * Strong debugging/troubleshooting skills.
 * Proficient with Golang & docker.
-* Proficient with network monitoring tools like Wireshark and Nmap.
+* Proficient with network monitoring tools like Wireshark.
 * Familiarity with SQL, git, valgrind, Perforce and debuggers(gdb / MS-VS debugger)
 * Limited exposure to Haskell & functional programming.
 
