@@ -43,7 +43,7 @@ Domain knowledge in IVR applications and networking applications.
  * Provided inputs to the business development team during the product specification review.
  * Assisted sales team in better time estimation of the various deliverables (software).
  * Working with a distributed team across different geographies.
-### Fraunhofer | Student Research Assistant | 6 months | Munich, Germany
+### Fraunhofer AISEC | Student Research Assistant | 6 months | Munich, Germany
  * Master thesis project - “Networking for smart meters”
  * Evaluation of different network architectures suitable for building a network between a smart meter and agateway.
  * Evaluation of different network security protocols suitable for the network.
