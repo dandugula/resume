@@ -20,10 +20,10 @@ Domain knowledge in IVR applications and networking applications.
   * Spirent TestCenter developement.
   * Technologies: C++, REST, PostgreSQL, Golang, Python, Docker, Spirent network testing hardware.
 ### Infinera | Lead Engineer | 1 year | Bangalore, India
-  * Developing optical chassis simulator in Python.
-  * Developing features for control plane on the optical networking element.
-  * Working on implementing intelligent L2 switching.
-  * Working on a NodeJS tool to diagnose chassis.
+  * Development of  optical chassis simulator in Python.
+  * Developed features for control plane on the optical networking element.
+  * Worked on implementing intelligent L2 switching.
+  * Worked on a NodeJS tool to diagnose chassis.
   * Technologies: C++, Linux, Broadcom SDK, QNX.
 ### Actiance | System Analyst | 8 months | Bangalore, India
  * Contributed towards building a recording solution- AMR (composed of 8 modules) for Skype for Business.
