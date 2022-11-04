@@ -14,7 +14,7 @@ Domain knowledge in IVR applications and networking applications.
 * Limited exposure to Haskell & functional programming.
 
 ## Expericence
-### Spirent | Staff S/w Engineer | *Current - 2 years* | Bangalore, India
+### Spirent | Staff S/w Engineer | *Current - 3 years* | Bangalore, India
   * Next-gen network testing product developement using micro services architecture.
   * Opensource contribution - Luddite (micro-framework for RESTful services).
   * Spirent TestCenter developement.
