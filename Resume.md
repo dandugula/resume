@@ -14,7 +14,7 @@ Domain knowledge in IVR applications and networking applications.
 * Limited exposure to Haskell & functional programming.
 
 ## Expericence
-### Spirent | Staff S/w Engineer | *Current - 2 years* | Bangalore, India
+### Spirent | Staff S/w Engineer | *Current - 3 years* | Bangalore, India
   * Next-gen network testing product developement using micro services architecture.
   * Opensource contribution - Luddite (micro-framework for RESTful services).
   * Spirent TestCenter developement.
@@ -62,7 +62,7 @@ Domain knowledge in IVR applications and networking applications.
  * Bluetooth conformance testing with PTS and FTS tools.
  * Development of scripts in Python for automated code-formatting
 ## Education
-### Kungliga Tekniska Högskolan Stockholm, Sweden
+### Kungliga Tekniska Högskolan, Stockholm, Sweden
 Master of Science - Communication Systems, 2012
 ### PESIT, VTU, Bangalore, India
 Bachelor of Engineering - Telecommunication Engineering, 2007
