@@ -21,24 +21,26 @@ Agentic Engineering
   
 ## Work Experience
 
-### Spirent, Staff Software Engineer
+### Spirent, Staff Software Engineer 📍 Bangalore, India
 *March 2019 - Septemeber 2025*
-- Contributed to a cross-functional & geographically distributed team that implemented performance enhancements to scale the existing application, driving $1M+ in additional revenue
-- Extracted business domain logic from monolithic system and architected corresponding microservices applications for improved scalability and maintainability
-- Worked on logging project to streamline logging across various apps and services and collect them in a centralised location for easier triaging of issues
-- Chosen for critical application modernization initiative based on pioneering Go language adoption in India development center, delivering microservices architecture transformation
-- Worked on legacy full stack composing of C# UI, C++ middleware & Python hardware layer of the existing application to delever a feature to obsolete legacy hardware within a few months of joining the organisation
+
+- Contributed to a cross-functional & geographically distributed team that implemented performance enhancements to scale the existing application, driving $1M+ in additional revenue.
+- Extracted business domain logic from monolithic system and architected corresponding microservices applications for improved scalability and maintainability.
+- Worked on logging project to streamline logging across various apps and services and collect them in a centralised location for easier triaging of issues.
+- Chosen for critical application modernization initiative based on pioneering Go language adoption in India development center, delivering microservices architecture transformation.
+- Worked on legacy full stack composing of C# UI, C++ middleware & Python hardware layer of the existing application to delever a feature to obsolete legacy hardware within a few months of joining the organisation.
 - Mentored junior engineer to get upto speed with the existing application architecture and code structure. Helped them to
-get going on bug fixing and feature developement
+get going on bug fixing and feature developement.
 - Hands-on AWS services like EC2, S3, ELB etc.
 - Technologies: C++, REST, PostgreSQL, Golang, Python, AWS, Docker, Spirent network testing hardware.
 
-### Junior Data Analyst, XYZ Corp
-*June 2021 - December 2022*
+### Lead Software Engineer, Infinera 📍 Bangalore, India
+*December 2017 - December 2018*
 
-- Assisted in cleaning and analyzing large datasets for business insights
-- Supported the development of dashboards for real-time business tracking
-- Provided actionable recommendations to improve marketing strategies
+- Extended functionality of established optical chassis simulator, adding control plane capabilities using Python for optical networking systems
+- Implemented L2 switching features leveraging Broadcom SDK for data link layer network operations.
+- Took initiative to build internal NodeJS diagnostic tool for chassis troubleshooting, demonstrating commitment beyond assigned duties.
+- Technologies: C++, Linux, Broadcom SDK, QNX.
 
 ## Education
 
