@@ -6,7 +6,7 @@ Software Architect
 | [linkedin.com/in/dandugula](https://www.linkedin.com/in/dandugula/)
 
 ## About me
-Led transformation of monolithic telecom and network testing systems into scalable microservices architectures, driving over $1M revenue growth. Specialized in integrating C++, Golang, and Python across distributed teams to modernize legacy applications and enhance performance. Experienced in designing control plane features for optical networks and streamlining cross-application logging, delivering measurable improvements in scalability and maintainability.
+Led transformation of monolithic telecom and network testing systems into scalable microservices architectures, driving over $1M revenue growth. Specialized in integrating C++, Golang, and Python across distributed teams to modernize legacy applications and enhance performance. Experienced in designing control plane features for optical networks and streamlining cross-application logging, delivering measurable improvements in scalability and maintainability. Over 15 years of professional software development experience.
 
 ## Skills
 
