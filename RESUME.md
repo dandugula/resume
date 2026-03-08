@@ -42,39 +42,62 @@ get going on bug fixing and feature developement.
 - Took initiative to build internal NodeJS diagnostic tool for chassis troubleshooting, demonstrating commitment beyond assigned duties.
 - Technologies: C++, Linux, Broadcom SDK, QNX.
 
+### System Analyst, Actiance 📍 Bangalore, India
+*March 2017 - November 2017*
+
+- Contributed significantly to developing a recording solution for Skype for Business.
+- Resolved critical instability issues and performance bottlenecks in the STUN module within six months, delivering a stable, high-performing solution.
+- Partnered with the performance team to achieve a 30% reduction in memory usage and 40% improvement in execution speed.
+- Technologies: C++, Poco, SIP, STUN, Skype for business front-end server.
+
+### Senior Software Developer, UMS 📍 Bangalore, India and Stavanger, Norway
+*April 2013 - February 2017*
+
+- Designed, developed, and tested back-end components for the voice alerts IVR application.
+- Partnered with the technical architect team across all phases of software design.
+- Led the end-to-end development and testing of a call processing library for Dialogic HMP (E1/T1 telecom cards) platform.
+- Diagnosed and resolved production issues.
+- Implemented advanced C++ design patterns and leveraged C++11 features, STL, and Boost libraries across multiple projects.
+- Created Python automation scripts for database monitoring and managed SQL (MS-SQL) operations in production.
+- Collaborated on product specification reviews and provided technical guidance to sales for project estimation.
+- Collaborated with remote teams spanning different geographical regions.
+
+### Research Assitant, Fraunhofer AISEC 📍 Munich, Germany
+*June 2011 - November 2011*
+- Master thesis project - “Networking for smart meters”.
+- Evaluation of different network architectures suitable for building a network between a smart meter and a gateway.
+- Evaluation of different network security protocols suitable for the network.
+- Technologies - TCP, UDP, HIP, IP over transmission lines## Education.
+
+### Summer Intern, Nokia Siemens Networks 📍 Helsinki, Finland
+*June 2010 - August 2010*
+- Part of the Flexiplatform IP Networking team.
+- CPP Unit testing of the IPSec module of Flexiplatform.
+- Setting up of complex networking scenarios using AdvancedTCA (ATCA) blades for testing of IPSec.
+- Setting up of a development server, for my team, based on RHEL and a custom software development toolchain for WindRiver Linux platform.
+- Worked in an Agile software development environment.
+
+### Software Engineer, MindTree 📍 Bangalore, India
+*October 2007 - August 2009*
+- Design and implementation of Bluetooth profiles and protocols for EtherMind.
+- Porting of EtherMind to various embedded systems with proprietary RTOS.
+- Integration of Audio codecs with the Bluetooth stack.
+- Auditing of security aspects of Bluetooth enabled devices.
+- Bluetooth conformance testing with PTS and FTS tools.
+- Development of scripts in Python for automated code-formatting.
+
 ## Education
+### Master of Science in Communication Systems
+*Kungliga Tekniska Högskolan 📍 Stockholm, Sweden*
+*| 2009 - 2012*
 
-### Bachelor of Science in Data Science  
-*University of Nairobi*  
-*2017 - 2021*
+### Bachelor of Engineering in Telecommunication Engineering
+*P.E.S Institute of Technology, Visveswaraiah Technological University 📍 Bangalore, India*
+*| 2003 - 2007*
 
-## Skills
-
-- Data Analysis: Python, SQL, R
-- Visualization Tools: Tableau, PowerBI
-- Machine Learning: Scikit-learn, TensorFlow
-- Statistical Analysis: STATA, SPSS
-
-## Certifications
-
-- Google Data Analytics Professional Certificate - 2022
-- Microsoft Certified: Azure Data Scientist Associate - 2021
-
-## Projects
-
-### Sales Forecasting Model
-Developed a sales forecasting model using machine learning algorithms to predict future sales trends based on historical data.
-
-### Customer Segmentation Analysis
-Conducted customer segmentation analysis using clustering techniques to enhance targeted marketing campaigns.
-
-## Languages
-
-- English: Fluent
-- Swahili: Native
-
-## Interests
-
-- Hiking
-- Technology
-- Photography
+## Other Work Experience
+## Volunteer, Youth for Seve 📍 Bangalore, India
+- Helped a team of doctors in conducting medical checkup camps at Govt. primary schools across Bangalore.
+- Lead a team of 5 volunteers in organizing hospital visit drives for the Govt. schools students.
+- Lead a team of 15 volunteers in planning and organizing an inter-school cultural festival - ‘Chiguru’(participants: ˜1500).
+- Volunteered for various activities of Youth for Seva in Education and health care divisions.
