@@ -2,7 +2,6 @@
 Software Architect
 | [Chaitanya@ChaDan.in](mailto:chaitanya@chadan.in)
 | [+91 81473 76106](tel:+918147376106)
-| [chadan.in](https://chadan.in)
 | [linkedin.com/in/dandugula](https://www.linkedin.com/in/dandugula/)
 
 ## About me
