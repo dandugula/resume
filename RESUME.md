@@ -95,7 +95,7 @@ get going on bug fixing and feature developement.
 *| 2003 - 2007*
 
 ## Other Work Experience
-## Volunteer, Youth for Seve 📍 Bangalore, India
+### Volunteer, Youth for Seve 📍 Bangalore, India
 - Helped a team of doctors in conducting medical checkup camps at Govt. primary schools across Bangalore.
 - Lead a team of 5 volunteers in organizing hospital visit drives for the Govt. schools students.
 - Lead a team of 15 volunteers in planning and organizing an inter-school cultural festival - ‘Chiguru’(participants: ˜1500).
