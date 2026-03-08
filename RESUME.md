@@ -1,21 +1,37 @@
-# Jane Doe
-Data Analyst
-| [example@gmail.com](mailto:example@gmail.com)
-| [+254 777 777 777](tel:+254777777777)
-| [example.com](https://example.com)
-| [linkedin.com/in/janedoe](https://www2.linkedin.com/in/janedoe/)
+# Chaitanya Dandugula
+Software Architect
+| [Chaitanya@ChaDan.in](mailto:chaitanya@chadan.in)
+| [+91 81473 76106](tel:+918147376106)
+| [chadan.in](https://chadan.in)
+| [linkedin.com/in/dandugula](https://www.linkedin.com/in/dandugula/)
 
 ## About me
-Data-driven professional with a passion for uncovering insights from data to solve real-world business problems. Skilled in Python, SQL, and Tableau, with a strong background in statistical analysis. In my free time, I enjoy hiking and exploring new technology.
+Led transformation of monolithic telecom and network testing systems into scalable microservices architectures, driving over $1M revenue growth. Specialized in integrating C++, Golang, and Python across distributed teams to modernize legacy applications and enhance performance. Experienced in designing control plane features for optical networks and streamlining cross-application logging, delivering measurable improvements in scalability and maintainability.
 
+## Skills
+
+Agentic Engineering
+| Golang | Python
+| Docker | Agentic AI
+| AWS | C | C++
+| Distributed and Scalable Systems
+| Cross-fucntional team collaboration
+| GNU / Linux
+| Debugging / troubleshooting
+  
 ## Work Experience
 
-### Data Analyst, ABC Tech Solutions
-*January 2023 - Present*
-
-- Utilize data analysis to optimize business operations and increase efficiency
-- Collaborate with cross-functional teams to develop predictive models
-- Lead data visualization projects to present findings to stakeholders
+### Spirent, Staff Software Engineer
+*March 2019 - Septemeber 2025*
+- Contributed to a cross-functional & geographically distributed team that implemented performance enhancements to scale the existing application, driving $1M+ in additional revenue
+- Extracted business domain logic from monolithic system and architected corresponding microservices applications for improved scalability and maintainability
+- Worked on logging project to streamline logging across various apps and services and collect them in a centralised location for easier triaging of issues
+- Chosen for critical application modernization initiative based on pioneering Go language adoption in India development center, delivering microservices architecture transformation
+- Worked on legacy full stack composing of C# UI, C++ middleware & Python hardware layer of the existing application to delever a feature to obsolete legacy hardware within a few months of joining the organisation
+- Mentored junior engineer to get upto speed with the existing application architecture and code structure. Helped them to
+get going on bug fixing and feature developement
+- Hands-on AWS services like EC2, S3, ELB etc.
+- Technologies: C++, REST, PostgreSQL, Golang, Python, AWS, Docker, Spirent network testing hardware.
 
 ### Junior Data Analyst, XYZ Corp
 *June 2021 - December 2022*
