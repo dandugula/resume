@@ -64,6 +64,7 @@ get going on bug fixing and feature developement.
 
 ### Research Assitant, Fraunhofer AISEC 📍 Munich, Germany
 *June 2011 - November 2011*
+
 - Master thesis project - “Networking for smart meters”.
 - Evaluation of different network architectures suitable for building a network between a smart meter and a gateway.
 - Evaluation of different network security protocols suitable for the network.
@@ -71,6 +72,7 @@ get going on bug fixing and feature developement.
 
 ### Summer Intern, Nokia Siemens Networks 📍 Helsinki, Finland
 *June 2010 - August 2010*
+
 - Part of the Flexiplatform IP Networking team.
 - CPP Unit testing of the IPSec module of Flexiplatform.
 - Setting up of complex networking scenarios using AdvancedTCA (ATCA) blades for testing of IPSec.
@@ -79,6 +81,7 @@ get going on bug fixing and feature developement.
 
 ### Software Engineer, MindTree 📍 Bangalore, India
 *October 2007 - August 2009*
+
 - Design and implementation of Bluetooth profiles and protocols for EtherMind.
 - Porting of EtherMind to various embedded systems with proprietary RTOS.
 - Integration of Audio codecs with the Bluetooth stack.
@@ -89,14 +92,17 @@ get going on bug fixing and feature developement.
 ## Education
 ### Master of Science in Communication Systems
 *Kungliga Tekniska Högskolan 📍 Stockholm, Sweden*
-*| 2009 - 2012*
+
+*2009 - 2012*
 
 ### Bachelor of Engineering in Telecommunication Engineering
 *P.E.S Institute of Technology, Visveswaraiah Technological University 📍 Bangalore, India*
-*| 2003 - 2007*
+
+*2003 - 2007*
 
 ## Other Work Experience
 ### Volunteer, Youth for Seva 📍 Bangalore, India
+
 - Helped a team of doctors in conducting medical checkup camps at Govt. primary schools across Bangalore.
 - Lead a team of 5 volunteers in organizing hospital visit drives for the Govt. schools students.
 - Lead a team of 15 volunteers in planning and organizing an inter-school cultural festival - ‘Chiguru’(participants: ˜1500).
