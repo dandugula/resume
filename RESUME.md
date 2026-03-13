@@ -1,18 +1,27 @@
 # Chaitanya Dandugula
-Software Architect
-| [Chaitanya@ChaDan.in](mailto:chaitanya@chadan.in)
+*Available for senior/staff engineering roles · Bangalore/Remote*
+
+[Chaitanya@ChaDan.in](mailto:chaitanya@chadan.in)
 | [chadan.in](https://www.chadan.in)
 | [+91 81473 76106](tel:+918147376106)
 | [linkedin.com/in/dandugula](https://www.linkedin.com/in/dandugula/)
 
 ## About me
-Led transformation of monolithic telecom and network testing systems into scalable microservices architectures, driving over $1M revenue growth. Specialized in integrating C++, Golang, and Python across distributed teams to modernize legacy applications and enhance performance. Experienced in designing control plane features for optical networks and streamlining cross-application logging, delivering measurable improvements in scalability and maintainability. Over 15 years of professional software development experience.
+Software Architect with 15+ years building distributed, high-performance systems across telecom, networking, and cloud infrastructure. Proven track record leading modernisation of large-scale legacy systems into microservices — most recently driving $1M+ in revenue impact at Spirent, a UK-based global test & measurement company.
+
+Experienced across the full stack of systems engineering: from C++ middleware and Golang microservices to Python automation and AWS-hosted services. Comfortable leading cross-functional, geographically distributed teams and mentoring engineers at scale.
+
+Academic and research background in Europe (MS, KTH Stockholm; Research at Fraunhofer AISEC, Munich; Internship at Nokia Siemens Networks, Helsinki) grounds a global perspective that I bring to architecture decisions and team collaboration.
+Open to senior/staff engineering and architecture roles — remote or Bangalore-based.
 
 ## Skills
 
 Agentic Engineering
 | Golang | Python
 | Docker | Agentic AI
+| Microservices Architecture
+| System Design
+| Technical Leadership
 | AWS | C | C++
 | Distributed and Scalable Systems
 | Cross-fucntional team collaboration
@@ -21,7 +30,7 @@ Agentic Engineering
   
 ## Work Experience
 
-### Spirent, Staff Software Engineer 📍 Bangalore, India
+### Spirent, Staff Software Engineer / Architect 📍 Bangalore, India
 *March 2019 - Septemeber 2025*
 
 - Contributed to a cross-functional & geographically distributed team that implemented performance enhancements to scale the existing application, driving $1M+ in additional revenue.
@@ -50,7 +59,7 @@ get going on bug fixing and feature developement.
 - Partnered with the performance team to achieve a 30% reduction in memory usage and 40% improvement in execution speed.
 - Technologies: C++, Poco, SIP, STUN, Skype for business front-end server.
 
-### Senior Software Developer, UMS 📍 Bangalore, India and Stavanger, Norway
+### Senior Software Developer, UMS 📍 Bangalore, India & Stavanger, Norway
 *April 2013 - February 2017*
 
 - Designed, developed, and tested back-end components for the voice alerts IVR application.
