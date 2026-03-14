@@ -77,7 +77,7 @@ get going on bug fixing and feature developement.
 - Master thesis project - “Networking for smart meters”.
 - Evaluation of different network architectures suitable for building a network between a smart meter and a gateway.
 - Evaluation of different network security protocols suitable for the network.
-- Technologies - TCP, UDP, HIP, IP over transmission lines## Education.
+- Technologies - TCP, UDP, HIP, IP over transmission lines.
 
 ### Summer Intern, Nokia Siemens Networks 📍 Helsinki, Finland
 *June 2010 - August 2010*
