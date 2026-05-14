@@ -1,4 +1,4 @@
-# Chaitanya Dandugula
+# Chaitanya.D
 *Software Architect | Swedish Educated | Building systems across telecom, networking & cloud*
 
 [+91 81473 76106](tel:+918147376106)
