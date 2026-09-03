@@ -69,21 +69,23 @@ design), C++11 features, STL, and Boost libraries while resolving critical produ
 - Partnered with architects, remote teams, and sales across all phases — from product specification reviews,
 Developing POCs and project estimation along with managing production MS-SQL database servers.
 
-### Research Engineer, Fraunhofer AISEC 📍 Munich, Germany
-*2011 - 2011*
-
-- Completed Master's thesis (Topic: Networking for smart meters) funded by German BSI.
-
-### Software Engineer, Nokia Siemens Networks (Nokia) 📍 Helsinki, Finland
-*2010 - 2010*
-
-- Configuration of complex network test environments & unit testing the IPSec module in C++.
-
 ### Software Engineer, MindTree (LTM) 📍 Bangalore, India
 *2007 - 2009*
 
 - Designed, implemented, and ported Bluetooth profiles and protocols across multiple embedded systems with
 proprietary RTOS (Car Infotainment Kits), including audio codec integration and security auditing.
+
+## Internships
+
+### Student Research Assistant, Fraunhofer AISEC 📍 Munich, Germany
+*2011 - 2011*
+
+- Completed Master's thesis (Topic: Networking for smart meters) funded by German BSI.
+
+### Intern, Nokia Siemens Networks (Nokia) 📍 Helsinki, Finland
+*2010 - 2010*
+
+- Configuration of complex network test environments & unit testing the IPSec module in C++.
 
 ## Education
 ### Master of Science in Communication Systems
