@@ -60,14 +60,6 @@ them to get going on bug fixing and feature development.
 - Extended functionality of the optical chassis simulator, adding control plane capabilities for optical networking.
 - Took initiative, beyond primary duties, to contribute to a NodeJS diagnostic tool for chassis troubleshooting.
 
-### System Analyst, Actiance (Smarsh) 📍 Bangalore, India
-*2017 - 2017*
-  
-- Resolved critical instability issues and performance bottlenecks in the STUN module within six months of joining
-the team & contributed significantly to developing a recording solution for Skype for Business.
-- Worked closely with the performance team to profile, optimize, and ultimately achieve a remarkable 30%
-reduction in memory usage and a significant 40% improvement in execution speed across the application.
-
 ### Senior Software Engineer, UMS (Everbridge) 📍 Bangalore, India & Stavanger, Norway
 *2013 - 2017*
 
