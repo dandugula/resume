@@ -12,7 +12,7 @@ C++11/14/17/20/23
 | Agentic Engineering
 | Golang | Python
 | Docker | Kubernetes | Agentic AI
-| REST API
+| Kafka | REST API
 | LangChain | LangGraph | LangSmith
 | PostgreSQL | TimescaleDB | Sqlite
 | TuringDB | Databases | Graph databases
